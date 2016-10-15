@@ -1,0 +1,13 @@
+C:\Users\Wanderlei\documents\visual studio 2015\Projects\SisOrganizador\SisOrganizador\bin\Debug\SisOrganizador.exe.config
+C:\Users\Wanderlei\documents\visual studio 2015\Projects\SisOrganizador\SisOrganizador\bin\Debug\SisOrganizador.exe.manifest
+C:\Users\Wanderlei\documents\visual studio 2015\Projects\SisOrganizador\SisOrganizador\bin\Debug\SisOrganizador.application
+C:\Users\Wanderlei\documents\visual studio 2015\Projects\SisOrganizador\SisOrganizador\bin\Debug\SisOrganizador.exe
+C:\Users\Wanderlei\documents\visual studio 2015\Projects\SisOrganizador\SisOrganizador\bin\Debug\SisOrganizador.pdb
+C:\Users\Wanderlei\documents\visual studio 2015\Projects\SisOrganizador\SisOrganizador\obj\Debug\SisOrganizador.FormOrganizador.resources
+C:\Users\Wanderlei\documents\visual studio 2015\Projects\SisOrganizador\SisOrganizador\obj\Debug\SisOrganizador.Properties.Resources.resources
+C:\Users\Wanderlei\documents\visual studio 2015\Projects\SisOrganizador\SisOrganizador\obj\Debug\SisOrganizador.csproj.GenerateResource.Cache
+C:\Users\Wanderlei\documents\visual studio 2015\Projects\SisOrganizador\SisOrganizador\obj\Debug\SisOrganizador.TrustInfo.xml
+C:\Users\Wanderlei\documents\visual studio 2015\Projects\SisOrganizador\SisOrganizador\obj\Debug\SisOrganizador.exe.manifest
+C:\Users\Wanderlei\documents\visual studio 2015\Projects\SisOrganizador\SisOrganizador\obj\Debug\SisOrganizador.application
+C:\Users\Wanderlei\documents\visual studio 2015\Projects\SisOrganizador\SisOrganizador\obj\Debug\SisOrganizador.exe
+C:\Users\Wanderlei\documents\visual studio 2015\Projects\SisOrganizador\SisOrganizador\obj\Debug\SisOrganizador.pdb
